@@ -1,2 +1,2 @@
-# Socket-programming-and-multithreading
-Uses Lamport's mutual exclusion algorithm on a distributed network with five client nodes and three server nodes.
+ # Socket-programming-and-multithreading
+Uses Lamport's mutual exclusion algorithm on a distributed network with five client nodes and three server nodes. The project is an implementation of a multithreaded file replication system. In such systems, it becomes important to maintain consistency of files across all servers. Lamport's mutual exclusion algorithm was used to achieve this condition. Utilizes TCP socket connections to establish communication across all nodes in the network
